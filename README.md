@@ -3,7 +3,6 @@
 AgroTech is a comprehensive agricultural solution built to provide crop recommendations, disease predictions, and crop yield predictions, leveraging machine learning and web technologies. The app is designed to help farmers make better decisions and improve crop productivity through advanced data analytics. AgroTech also integrates GroqAI for providing expert advice on crop cultivation and disease management.
 
 
-
 ![Crop Recommendation](./images/img1.png)
 
 ## Table of Contents
@@ -46,7 +45,7 @@ AgroTech is a comprehensive agricultural solution built to provide crop recommen
 
 
 
-![Disease Prediction](./images/img2.jpg)
+![Disease Prediction](./images/img2.png)
 
 ## Tech Stack
 
